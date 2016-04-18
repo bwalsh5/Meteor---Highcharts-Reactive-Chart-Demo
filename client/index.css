@@ -1,0 +1,41 @@
+body {
+    
+ margin:0;
+  
+}
+#container {
+    width: 1180px;
+    margin: 0 auto;
+}
+img {
+    max-width: 100%; 
+
+}
+
+h1, h2 {text-align: center;}
+
+h2 { 
+    margin-bottom:0; padding-bottom: 32px;}
+
+
+#flex {
+  
+     display: flex;
+     justify-content:space-between;
+    padding-bottom: 24px;
+  border-bottom: 2px solid grey;
+
+}
+
+.options {
+   
+  flex-direction: row;
+ flex-basis: 1;
+    width: 180px;
+    text-align: center;
+    border: 1px solid black;
+    margin: 0 20px;
+    padding: 20px;
+     background: rgba(0,0,0,0.5);
+     cursor:pointer;
+}

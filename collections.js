@@ -1,0 +1,1 @@
+Candidate = new Meteor.Collection('candidate');

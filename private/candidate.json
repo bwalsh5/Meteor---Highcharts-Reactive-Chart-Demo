@@ -1,0 +1,9 @@
+{
+  "candidate":
+  [
+    { "_id": "1", "name": "One",  "votes": 0 },
+    { "_id": "2", "name": "Two",  "votes": 0 },
+    { "_id": "3", "name": "Three",  "votes": 0 }
+  
+  ]
+}
